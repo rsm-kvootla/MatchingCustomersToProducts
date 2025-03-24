@@ -58,6 +58,7 @@ Models predict the likelihood that a customer will make a purchase after receivi
 ### Task 2: Regression (Predicting Order Size)
 For customers predicted to make a purchase, models estimate their likely order size:
 
+- Linear Regression
 - Random Forest Regressor
 - XGBoost Regressor
 - Neural Network Regressor
